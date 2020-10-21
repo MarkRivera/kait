@@ -1,0 +1,15 @@
+.landing {
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnbox {
+    text-align: center;
+}
+
+.all {
+    width: 50%;
+}
